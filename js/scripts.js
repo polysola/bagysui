@@ -48,7 +48,7 @@ AOS.init({
 $(document).ready(function () {
 	$(".Token_Address p").click(function (event) {
 		event.preventDefault();
-		CopyToClipboard("4rrDdwa7zr6vGCVuRgMmT6gbkCrw2PFEyQzMw4ZCHavv", true, "Copied");
+		CopyToClipboard("SOON", true, "Copied");
 	});
 });
 
